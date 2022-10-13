@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    position: relative;
+    width: 150px;
+    height: 55px;
+    border-radius: 7px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
