@@ -7,7 +7,7 @@
 Desenvolvido para aprendizado. Realizado efeito de botão animado. 13/10/22
 
 
-[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Botão-Animado/)
+[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Botao-Animado/)
 
 
 ## 💻 Tecnologias
